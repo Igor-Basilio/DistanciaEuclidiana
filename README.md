@@ -1,4 +1,5 @@
 
-Passos para compilar e executar (Necessário Windows) :
+# Passos para compilar e executar (Necessário Windows) :
 g++ main.cpp -o main
-.\main <Tamanho>
+
+.\main <Tamanho> 
